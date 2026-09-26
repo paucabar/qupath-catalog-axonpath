@@ -16,8 +16,9 @@ QuPath and get notified when updates come out.
    button next to it.
 5. Restart QuPath if prompted. The extension is available under **Extensions → AxonPath**.
 
-The first time a model runs, QuPath's Deep Java Library extension downloads the PyTorch engine,
-so an internet connection is needed for that first run.
+Before running AxonPath for the first time, download the PyTorch engine: open
+**Extensions → Deep Java Library → Manage DJL engines** and click **Download** next to PyTorch.
+This needs an internet connection and only has to be done once.
 
 ## For maintainers
 
