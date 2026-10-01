@@ -5,13 +5,16 @@
         {
             "name": "AxonPath",
             "description": "Run AxonPath deep learning models to segment fibres, inner cylinders and axons in EM and brightfield images, with morphometric measurements and tools for manual correction",
-            "author": "Pau Carrillo-Barberà, Alan O'Callaghan",
+            "author": "Pau Carrillo-Barberà, Alan O'Callaghan, Peter Bankhead",
             "homepage": "https://github.com/paucabar/qupath-extension-axonpath",
             "starred": true,
             "releases": [
                 {
                     "name": "v0.1.0",
-                    "main_url": "https://github.com/paucabar/qupath-catalog-axonpath/releases/download/test-v0.1.0/qupath-extension-axonpath-0.1.0.jar",
+                    "main_url": "https://github.com/paucabar/qupath-extension-axonpath/releases/download/v0.1.0/qupath-extension-axonpath-0.1.0.jar",
+                    "javadoc_urls": [
+                        "https://github.com/paucabar/qupath-extension-axonpath/releases/download/v0.1.0/qupath-extension-axonpath-0.1.0-javadoc.jar"
+                    ],
                     "version_range": {
                         "min": "v0.7.0"
                     }
